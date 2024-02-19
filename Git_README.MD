@@ -7,7 +7,7 @@ One Time Setup
 
 Daily Workflow
 ---
-git clone <URL>
-git status
-git add <filename>
-git commit
+1. git clone <URL>
+2. git status
+3. git add <filename>
+4. git commit
